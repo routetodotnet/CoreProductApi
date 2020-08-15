@@ -20,7 +20,7 @@ namespace ProductApi.Models
 
                new Product(){ id=1,name="laptop",desc="mac white"},
                 new Product(){ id=2,name="phone",desc="samsung"},
-                new Product(){ id=3,name="ball",desc="cricket"}
+                new Product(){ id=3,name="tennies",desc="rocket"}
             };
             return prods;
         }
